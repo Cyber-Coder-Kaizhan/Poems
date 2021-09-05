@@ -1,0 +1,35 @@
+.body_background {
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/000/600/523/small/BG57.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+#myCanvas {
+  border-color: firebrick;
+  border-style: ridge;
+  border-width: 7px
+}
+
+#myCanvas2 {
+  background-image: url("https://media.istockphoto.com/photos/abstract-blurred-colorful-gradient-background-in-soft-style-picture-id1251007701?k=20&m=1251007701&s=612x612&w=0&h=U40EdQUofl9OhzPOLiz42sjnQuBJbkwV-mLbiE1kJPY=");
+  border-color: turquoise;
+  border-style: ridge;
+  border-width: 5px;
+}
+
+#myCanvas3 {
+  background-image: url("data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMHBg0IBxASCg0FDRYFDQ0FFQ8NCRAWFBEWFhUREx8YHSggGBolGxMTITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NDg8PFSsZExkrKysrKysrLSsrKysrKysrKysrKystKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAMIBAwMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAAAQIG/8QAFRABAQAAAAAAAAAAAAAAAAAAABH/xAAaAQEAAwEBAQAAAAAAAAAAAAAAAQIDBAcG/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIR/9oADAMBAAIRAxEAPwDtAHlb6cAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABABXQANAA0ADQANAA0ADQANAA0ADQANAA0ADQANAA0ADRUA0EEqaogGqIBqiAaogGqIBqiAaogGqIBqiAaogGqIBqiAaogGqIBqiAaoihqCAypRAKUQClEApRAKUQClEApRAKUQClEApRAKUQClEApRAKUQClEApRAKQBLGgAKAAoACgAKAAoACgAKAAoACgAKAAoACgAKAAoACgARSCCWFKIBSiAUogFKIBSiAUogFKIBSiAUogFKIBSiAUogFKIBSiAUogFKIBSCCXNaiAWogFqIBaiAWogFqIBaiAWogFqIBaiAWogFqIBaiAWogFqIBaoAWgzSpcttDNKFtDNKFtDNKFtDNKFtDNKFtDNKFtDNKFtDNKFtDNKFtDNKFtDNKFtDNKFtDNKFtDNKFtDNKFtDNAtAhE45KAhDCgIQwoCEMKAhDCgIQwoCEMKAhDCgIQwoCEMKAhDCgIQwoCEMKAhDCgIQwoCEMKAgnCm4RuEaYoxCNwhgxCNwhgxCNwhgxCNwhgxCNwhgxCNwhgxCNwhgxCNwhgxCNwhgxCNwhgxCNwhgxCNwhgxCNwhgxCNwhgxCNwhgxBuIYNwjcI0wYhG4QwYhG4QwYhG4QwYhG4QwYhG4QwYhG4QwYhG4QwYhG4QwYhG4QwYhG4QwYhG4QwYhG4QwYhG4QwYhG4QwYhG4QwYg3FMGoRuEa4MQjcIYMQjcIYMQjcIYMQjcIYMQjcIYMQjcIYMQjcIYMQjcIYMQjcIYMQjcIYMQjcIYMQjcIYMQjcIYMQjcIYMQjcIYMQbgYNALgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/9k=");
+  border-color: black;
+  border-style: ridge;
+  border-width: 5px;
+  
+}
+
+#B_button3 {
+  margin-left: 1000px;
+  margin-top: -150px;
+}
+
+#B_button2 {
+  margin-bottom: 300px;
+}
